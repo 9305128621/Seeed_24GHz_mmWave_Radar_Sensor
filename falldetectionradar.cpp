@@ -225,7 +225,7 @@ void FallDetectionRadar::Fall_inf(byte inf[]){
                   Serial.println("A real fall was detected.");
                   break;
                 case NO_FALL:
-                  Serial.println("A no fall was detected.");
+                  Serial.println("A  fall was detected.");
                   break;
                 }
               break;
